@@ -1,0 +1,452 @@
+[
+    {
+        "artist_name":"FIFTY FIFTY",
+        "followers":1040052,
+        "top_track":"Cupid - Twin Ver.",
+        "top_track_popularity":98.0,
+        "top_track_release_date":"2023-02-24",
+        "genres":"k-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"Jung Kook",
+        "followers":8656152,
+        "top_track":"Seven (feat. Latto) (Explicit Ver.)",
+        "top_track_popularity":97.0,
+        "top_track_release_date":"2023-07-14",
+        "genres":"k-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"Jimin",
+        "followers":6227865,
+        "top_track":"Like Crazy",
+        "top_track_popularity":96.0,
+        "top_track_release_date":"2023-03-24",
+        "genres":"k-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"NewJeans",
+        "followers":4130164,
+        "top_track":"Super Shy",
+        "top_track_popularity":93.0,
+        "top_track_release_date":"2023-07-07",
+        "genres":"k-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"YOASOBI",
+        "followers":5945744,
+        "top_track":"\u30a2\u30a4\u30c9\u30eb",
+        "top_track_popularity":91.0,
+        "top_track_release_date":"2023-04-12",
+        "genres":"j-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"YOASOBI",
+        "followers":5945744,
+        "top_track":"\u30a2\u30a4\u30c9\u30eb",
+        "top_track_popularity":91.0,
+        "top_track_release_date":"2023-04-12",
+        "genres":"j-pop",
+        "query_genre":"japanese"
+    },
+    {
+        "artist_name":"(G)I-DLE",
+        "followers":6534936,
+        "top_track":"Queencard",
+        "top_track_popularity":90.0,
+        "top_track_release_date":"2023-05-15",
+        "genres":"k-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"ENHYPEN",
+        "followers":6039057,
+        "top_track":"Bite Me",
+        "top_track_popularity":89.0,
+        "top_track_release_date":"2023-05-22",
+        "genres":"k-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"Stray Kids",
+        "followers":11990935,
+        "top_track":"S-Class",
+        "top_track_popularity":89.0,
+        "top_track_release_date":"2023-06-02",
+        "genres":"k-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"BTS",
+        "followers":67507448,
+        "top_track":"Left and Right (Feat. Jung Kook of BTS)",
+        "top_track_popularity":88.0,
+        "top_track_release_date":"2022-10-06",
+        "genres":"k-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"IVE",
+        "followers":2488380,
+        "top_track":"I AM",
+        "top_track_popularity":88.0,
+        "top_track_release_date":"2023-04-10",
+        "genres":"k-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"LE SSERAFIM",
+        "followers":2620665,
+        "top_track":"UNFORGIVEN (feat. Nile Rodgers)",
+        "top_track_popularity":88.0,
+        "top_track_release_date":"2023-05-01",
+        "genres":"k-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"Fujii Kaze",
+        "followers":2399516,
+        "top_track":"Shinunoga E-Wa",
+        "top_track_popularity":87.0,
+        "top_track_release_date":"2020-05-20",
+        "genres":"['japanese teen pop']",
+        "query_genre":"japanese"
+    },
+    {
+        "artist_name":"SEVENTEEN",
+        "followers":9731900,
+        "top_track":"Super",
+        "top_track_popularity":87.0,
+        "top_track_release_date":"2023-04-24",
+        "genres":"k-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"Fujii Kaze",
+        "followers":2399516,
+        "top_track":"Shinunoga E-Wa",
+        "top_track_popularity":87.0,
+        "top_track_release_date":"2020-05-20",
+        "genres":"['japanese teen pop']",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"JIN",
+        "followers":6590144,
+        "top_track":"The Astronaut",
+        "top_track_popularity":86.0,
+        "top_track_release_date":"2022-10-28",
+        "genres":"k-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"SUGA",
+        "followers":2476725,
+        "top_track":"Lilith (feat. SUGA of BTS) (Diablo IV Anthem)",
+        "top_track_popularity":85.0,
+        "top_track_release_date":"2023-06-05",
+        "genres":"k-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"TOMORROW X TOGETHER",
+        "followers":8335192,
+        "top_track":"Do It Like That",
+        "top_track_popularity":85.0,
+        "top_track_release_date":"2023-07-07",
+        "genres":"k-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"JISOO",
+        "followers":1354603,
+        "top_track":"FLOWER",
+        "top_track_popularity":84.0,
+        "top_track_release_date":"2023-03-31",
+        "genres":"k-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"KAI",
+        "followers":1179820,
+        "top_track":"Rover",
+        "top_track_popularity":84.0,
+        "top_track_release_date":"2023-03-13",
+        "genres":"k-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"V",
+        "followers":14088149,
+        "top_track":"Christmas Tree",
+        "top_track_popularity":84.0,
+        "top_track_release_date":"2021-12-24",
+        "genres":"['j-division', 'korean ost']",
+        "query_genre":"korean"
+    },
+    {
+        "artist_name":"ATEEZ",
+        "followers":3021406,
+        "top_track":"BOUNCY (K-HOT CHILLI PEPPERS)",
+        "top_track_popularity":84.0,
+        "top_track_release_date":"2023-06-16",
+        "genres":"k-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"aespa",
+        "followers":3418447,
+        "top_track":"Spicy",
+        "top_track_popularity":84.0,
+        "top_track_release_date":"2023-05-08",
+        "genres":"k-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"Kenshi Yonezu",
+        "followers":5112482,
+        "top_track":"KICK BACK",
+        "top_track_popularity":84.0,
+        "top_track_release_date":"2022-10-12",
+        "genres":"j-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"EXO",
+        "followers":9701818,
+        "top_track":"Cream Soda",
+        "top_track_popularity":83.0,
+        "top_track_release_date":"2023-07-10",
+        "genres":"k-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"j-hope",
+        "followers":15407840,
+        "top_track":"on the street (with J. Cole)",
+        "top_track_popularity":83.0,
+        "top_track_release_date":"2023-03-03",
+        "genres":"k-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"LISA",
+        "followers":4829395,
+        "top_track":"MONEY",
+        "top_track_popularity":83.0,
+        "top_track_release_date":"2021-09-10",
+        "genres":"k-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"MAN WITH A MISSION",
+        "followers":1002451,
+        "top_track":"\u7d46\u30ce\u5947\u8de1",
+        "top_track_popularity":83.0,
+        "top_track_release_date":"2023-04-10",
+        "genres":"j-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"milet",
+        "followers":615291,
+        "top_track":"\u7d46\u30ce\u5947\u8de1",
+        "top_track_popularity":83.0,
+        "top_track_release_date":"2023-04-10",
+        "genres":"j-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"Vaundy",
+        "followers":1731531,
+        "top_track":"\u602a\u7363\u306e\u82b1\u5504",
+        "top_track_popularity":81.0,
+        "top_track_release_date":"2020-05-27",
+        "genres":"j-pop",
+        "query_genre":"japanese"
+    },
+    {
+        "artist_name":"wave to earth",
+        "followers":524359,
+        "top_track":"seasons",
+        "top_track_popularity":81.0,
+        "top_track_release_date":"2020-08-04",
+        "genres":"['bedroom r&b', 'korean city pop']",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"Tatsuya Kitani",
+        "followers":189060,
+        "top_track":"\u9752\u306e\u3059\u307f\u304b",
+        "top_track_popularity":81.0,
+        "top_track_release_date":"2023-07-07",
+        "genres":"['japanese electropop']",
+        "query_genre":"japanese"
+    },
+    {
+        "artist_name":"Vaundy",
+        "followers":1731531,
+        "top_track":"\u602a\u7363\u306e\u82b1\u5504",
+        "top_track_popularity":81.0,
+        "top_track_release_date":"2020-05-27",
+        "genres":"j-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"wave to earth",
+        "followers":524359,
+        "top_track":"seasons",
+        "top_track_popularity":81.0,
+        "top_track_release_date":"2020-08-04",
+        "genres":"['bedroom r&b', 'korean city pop']",
+        "query_genre":"korean"
+    },
+    {
+        "artist_name":"LeeHi",
+        "followers":1542200,
+        "top_track":"ONLY",
+        "top_track_popularity":81.0,
+        "top_track_release_date":"2021-09-09",
+        "genres":"k-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"BIBI",
+        "followers":996941,
+        "top_track":"BIBI Vengeance",
+        "top_track_popularity":80.0,
+        "top_track_release_date":"2022-11-17",
+        "genres":"k-pop",
+        "query_genre":"korean"
+    },
+    {
+        "artist_name":"QUEEN BEE",
+        "followers":302723,
+        "top_track":"\u30e1\u30d5\u30a3\u30b9\u30c8",
+        "top_track_popularity":80.0,
+        "top_track_release_date":"2023-04-20",
+        "genres":"['anime rock', 'dance rock', 'j-rock']",
+        "query_genre":"j-dance"
+    },
+    {
+        "artist_name":"BIBI",
+        "followers":996941,
+        "top_track":"BIBI Vengeance",
+        "top_track_popularity":80.0,
+        "top_track_release_date":"2022-11-17",
+        "genres":"k-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"imase",
+        "followers":341845,
+        "top_track":"NIGHT DANCER",
+        "top_track_popularity":79.0,
+        "top_track_release_date":"2022-11-09",
+        "genres":"['japanese teen pop']",
+        "query_genre":"japanese"
+    },
+    {
+        "artist_name":"imase",
+        "followers":341845,
+        "top_track":"NIGHT DANCER",
+        "top_track_popularity":79.0,
+        "top_track_release_date":"2022-11-09",
+        "genres":"['japanese teen pop']",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"Colde",
+        "followers":434991,
+        "top_track":"Don't ever say love me (feat. RM of BTS)",
+        "top_track_popularity":79.0,
+        "top_track_release_date":"2023-05-04",
+        "genres":"['korean r&b']",
+        "query_genre":"korean"
+    },
+    {
+        "artist_name":"BLACKPINK",
+        "followers":43385244,
+        "top_track":"Shut Down",
+        "top_track_popularity":79.0,
+        "top_track_release_date":"2022-09-15",
+        "genres":"k-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"Mrs. GREEN APPLE",
+        "followers":2764561,
+        "top_track":"\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
+        "top_track_popularity":79.0,
+        "top_track_release_date":"2022-05-23",
+        "genres":"j-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"TAEYANG",
+        "followers":1166851,
+        "top_track":"Shoong! (feat. LISA of BLACKPINK)",
+        "top_track_popularity":79.0,
+        "top_track_release_date":"2023-04-25",
+        "genres":"k-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"Aimer",
+        "followers":2288220,
+        "top_track":"\u6b8b\u97ff\u6563\u6b4c",
+        "top_track_popularity":79.0,
+        "top_track_release_date":"2021-12-06",
+        "genres":"j-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"TAEYANG",
+        "followers":1166851,
+        "top_track":"Shoong! (feat. LISA of BLACKPINK)",
+        "top_track_popularity":79.0,
+        "top_track_release_date":"2023-04-25",
+        "genres":"k-pop",
+        "query_genre":"korean"
+    },
+    {
+        "artist_name":"BSS",
+        "followers":336975,
+        "top_track":"Fighting (Feat. Lee Young Ji)",
+        "top_track_popularity":78.0,
+        "top_track_release_date":"2023-02-06",
+        "genres":"k-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"LiSA",
+        "followers":2905006,
+        "top_track":"\u7d05\u84ee\u83ef",
+        "top_track_popularity":78.0,
+        "top_track_release_date":"2020-10-14",
+        "genres":"j-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"Red Velvet",
+        "followers":8573957,
+        "top_track":"Psycho",
+        "top_track_popularity":78.0,
+        "top_track_release_date":"2019-12-23",
+        "genres":"k-pop",
+        "query_genre":"j-pop"
+    },
+    {
+        "artist_name":"PSY",
+        "followers":1651872,
+        "top_track":"That That (prod. & feat. SUGA of BTS)",
+        "top_track_popularity":78.0,
+        "top_track_release_date":"2022-04-29",
+        "genres":"['k-rap', 'korean old school hip hop']",
+        "query_genre":"korean"
+    }
+]
